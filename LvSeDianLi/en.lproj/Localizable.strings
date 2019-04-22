@@ -1,0 +1,178 @@
+/*
+ Localizable.strings
+ LvSeDianLi
+ 
+ Created by TianLinqiang on 15/7/17.
+ Copyright (c) 2015年 TianLinqiang. All rights reserved.
+ */
+
+//page 1
+
+"p1_app_name" = "Smart PV";
+
+"p1_hit_me_go" = "Click to enter";
+
+//page 2
+"page2_dialog_userInfoError" = "User Name or Password error, Please input again";
+"page2_dialog_userNameNull" = "Please input account";
+"page2_dialog_userPwdNull" = "Please input password";
+
+
+"请选择国家" = "Please select the country";
+
+"全球" = "Global";
+"中国" = "中国";
+"日本" = "日本";
+"德国" = "Deutschland";
+"丹麦" = "Denmark";
+"美国" = "United States";
+"澳大利亚" = "Australia";
+"英国" = "England";
+"法国" = "France";
+"荷兰" = "Netherlands";
+
+"意大利" = "Italy";
+"马来西亚" = "Malaysia";
+"新加坡" = "Singapore";
+"泰国" = "ประเทศไทย";
+
+"韩国"="한국";
+"巴西"="Brazil";
+"印尼"="Indonesia";
+"菲律宾" = "Philippines";
+
+//page 3
+
+"电站列表" = "Plants List";
+"今日发电量" = "Power";
+"电站状态" = "Status";
+
+"功率1"="Power";
+"月发电量" = "Monthly";
+"年发电量" = "Yearly";
+"月发电量1" = "Monthly";
+"年发电量1" = "Yearly";
+
+"累计" = "Total";
+"发电所容量" = "Capacity";
+"正常" = "Normal";
+"总数" = "Total";
+
+//page4
+
+"1年前" ="1 years ago";
+"日前" = "days ago";
+"1日前" = "1 days ago";
+
+//page 5678
+
+"装机容量" = "Capacity";
+
+"功率" = "Power";
+"单位发电量" = "Average";
+"今日发电量" = "E-Today";
+"今日收益" = "Income";
+"昨日发电量" = "Yesterday Energy";
+"累计发电量" = "Total Energy";
+"累计收益" = "Total Income";
+
+"日照" = "Solar Radiation";
+"环境温度" = "Environmentn Temp";
+
+"背板温度" = "Module Temp";
+"峰值日照时数" = "Todays Peak Sunshine Hours";
+"温度" = "Temp";
+"风速" = "Wind Speed";
+
+"湿度" = "Relative Humidity";
+"能见度" = "能见度";
+"数据来源" = "Data Source";
+
+"本地"="Local";
+"雅虎"="Yahoo";
+
+"逆变器1" = "Name";
+"发电量(kWh)" = "Energy(kWh)";
+"状态" = "Status";
+
+
+"故障明细" = "Detail";
+
+
+"刷新时间：" = "Update Time：";
+"设备名称：" = "Name：";
+"设备型号：" = "Module：";
+"地址码：" = "Address IP：";
+"故障信息：" = "Error Info.：";
+
+"发电量(kW)" = "Power(kW)";
+//
+"请选择服务器" = "Select server";
+"用户名" = "User";
+"密码" = "Password";
+"退出" = "Back";
+"登录" = "Login";
+
+"运行状态" = "Status";
+"概况" = "Overview";
+"天气" = "Weather";
+"发电量" = "Energy";
+"逆变器" = "Inverter";
+
+"下拉可以刷新" = "pull to refresh";
+"最后更新" = "Last update";
+"松开立即刷新" = "release and refresh";
+"刷新..." = "Refresh...";
+//
+"正常" = "Normal";
+"通信异常或离线" = "messagefault";
+"通信异常"="Logger Offline";
+"故障" = "Failure";
+"停机" = "Shutdown";
+"部分停机" = "Part Shutdown";
+"设备离线" = "Device Offline";
+
+"消息中心" = "Message center";
+
+"时间" = "Time";
+
+"元" = " ";
+"万元" = "  ";
+
+"日发电量" = "Daily Energy";
+//中文、、、、、、、、英文、、、、、、、、、日文
+//正常、、、、、、、、normal、、、、、、、正常
+//通信异常或离线、、、messagefault、、、、通信異常
+//故障、、、、、、、、failure、、、、、、、、故障
+//停机、、、、、、、、shut down、、、、、、停止
+//部分停机、、、、、、Part Stop、、、、、、一部停止
+
+
+//故障	Failure	故障
+//采集器离线	Logger offline	監視装置オフライン
+//设备离线	Device offline	デバイスオフライン
+//逆变器日停机	Inverter daily shutdown	パワコン一日発電停止
+//电站日停机	Plant daily shutdown	発電所一日発電停止
+//逆变器月度低效	Inverter monthly low efficiency	パワコン月発電低下
+//电站月度低效	Plant monthly low efficiency	発電所月発電低下
+
+"故障" = "Failure";
+"采集器离线" = "Logger offline";
+"设备离线" = "Device offline";
+"逆变器日停机" = "Inverter daily shutdown";
+"电站日停机" = "Plant daily shutdown";
+"逆变器月度低效" = "Inverter monthly low efficiency";
+"电站月度低效" = "Plant monthly low efficiency";
+
+"公告" = "Bulletin";
+"名称" = "Name";
+"发生时间" = "Time";
+"故障内容" = "Detail";
+"效率" = "Efficiency";
+"发生日期" = "Date";
+"序列号" = "SN";
+"未读" = "Unread";
+
+"搜索电站" = "Plant search";
+
+"故障列表" = "Failure List";

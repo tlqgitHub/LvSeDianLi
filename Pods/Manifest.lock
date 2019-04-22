@@ -1,0 +1,68 @@
+PODS:
+  - AFMInfoBanner (1.0.2):
+    - CVKHierarchySearcher (~> 0.2)
+  - AFNetworking (2.5.4):
+    - AFNetworking/NSURLConnection (= 2.5.4)
+    - AFNetworking/NSURLSession (= 2.5.4)
+    - AFNetworking/Reachability (= 2.5.4)
+    - AFNetworking/Security (= 2.5.4)
+    - AFNetworking/Serialization (= 2.5.4)
+    - AFNetworking/UIKit (= 2.5.4)
+  - AFNetworking/NSURLConnection (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.5.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.5.4)
+  - AFNetworking/Security (2.5.4)
+  - AFNetworking/Serialization (2.5.4)
+  - AFNetworking/UIKit (2.5.4):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - CVKHierarchySearcher (0.2.0)
+  - MJRefresh (0.0.1)
+  - PNChart (0.8.9):
+    - UICountingLabel (~> 1.2.0)
+  - RTLabel (1.0.1)
+  - SHLineGraphView (1.0.6)
+  - STAlertView (1.0.0)
+  - UICountingLabel (1.2.0)
+
+DEPENDENCIES:
+  - AFMInfoBanner (~> 1.0.0)
+  - AFNetworking (~> 2.5.3)
+  - MJRefresh (~> 0.0.1)
+  - PNChart (~> 0.8.7)
+  - RTLabel
+  - SHLineGraphView (~> 1.0.6)
+  - STAlertView (~> 1.0.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFMInfoBanner
+    - AFNetworking
+    - CVKHierarchySearcher
+    - MJRefresh
+    - PNChart
+    - RTLabel
+    - SHLineGraphView
+    - STAlertView
+    - UICountingLabel
+
+SPEC CHECKSUMS:
+  AFMInfoBanner: e2f2b479cc589986a0ab7fb31fb4c6d5c81f732f
+  AFNetworking: 05edc0ac4c4c8cf57bcf4b84be5b0744b6d8e71e
+  CVKHierarchySearcher: 7be8d3bcbcc6f86ff07f785e6c632b5e40da2553
+  MJRefresh: 3ca90d4639e787c7b61432d84905f16de05d81b2
+  PNChart: 84774d225c2126ded6c93d4dbe6ae98c3a73c2d2
+  RTLabel: 6005d07fef57b101097c4271f804daae3110cbca
+  SHLineGraphView: eb2be643fe2b9778e10e702836a1b474083ab9da
+  STAlertView: bfcbdfed87dc7bfb35c04acd5d96aecebb923d48
+  UICountingLabel: 1db4e7d023e1762171eb226d6dff47a7a84f27aa
+
+PODFILE CHECKSUM: 9121e3aaff913c60c8a8daa14293bc1a4fbb0d2f
+
+COCOAPODS: 1.6.1
